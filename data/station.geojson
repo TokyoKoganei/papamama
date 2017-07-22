@@ -1,0 +1,59 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.506650,35.701308 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":11,
+    "N02_002":2,
+    "line":"中央本線",
+    "company":"小金井市",
+    "station_name":"武蔵小金井",
+    "shubetsu":"JR東日本",
+    "lon":139.50665,
+    "lat":35.701308
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.524572,35.701489 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":11,
+    "N02_002":2,
+    "line":"中央本線",
+    "company":"小金井市",
+    "station_name":"東小金井",
+    "shubetsu":"JR東日本",
+    "lon":139.524572,
+    "lat":35.701489
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.526786,35.695926 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":12,
+    "N02_002":4,
+    "line":"多摩川線",
+    "company":"小金井市",
+    "station_name":"新小金井",
+    "shubetsu":"西武鉄道",
+    "lon":139.526786,
+    "lat":35.695926
+    }
+  }
+]
+}
