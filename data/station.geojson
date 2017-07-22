@@ -1,0 +1,59 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.506650,35.701308 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":11,
+    "N02_002":2,
+    "line":"’†‰›–{ü",
+    "company":"¬‹àˆäs",
+    "station_name":"•‘ ¬‹àˆä",
+    "shubetsu":"JR“Œ“ú–{",
+    "lon":35.701308,
+    "lat":139.50665
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.524572,35.701489 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":11,
+    "N02_002":2,
+    "line":"’†‰›–{ü",
+    "company":"¬‹àˆäs",
+    "station_name":"“Œ¬‹àˆä",
+    "shubetsu":"JR“Œ“ú–{",
+    "lon":35.701489,
+    "lat":139.524572
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.526786,35.695926 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":12,
+    "N02_002":4,
+    "line":"‘½–€ìü",
+    "company":"¬‹àˆäs",
+    "station_name":"V¬‹àˆä",
+    "shubetsu":"¼•“S“¹",
+    "lon":35.695926,
+    "lat":139.526786
+    }
+  }
+]
+}
