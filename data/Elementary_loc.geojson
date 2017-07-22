@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                                                                  
+"features": [
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "è¨ã‡à‰ëÊàÍè¨äwçZ", "A27_004": "è¨ã‡à‰ésñ{í¨1-1-6" }, "geometry": { "type": "Point", "coordinates": [ 139.5103, 35.6984 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "è¨ã‡à‰ëÊìÒè¨äwçZ", "A27_004": "è¨ã‡à‰ésç˜í¨2-3-58" }, "geometry": { "type": "Point", "coordinates": [ 139.5055, 35.7105 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "è¨ã‡à‰ëÊéOè¨äwçZ", "A27_004": "è¨ã‡à‰ésäÅñÏí¨5-7-1" }, "geometry": { "type": "Point", "coordinates": [ 139.5231, 35.7046 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "è¨ã‡à‰ëÊélè¨äwçZ", "A27_004": "è¨ã‡à‰ésä—à‰ìÏí¨3-9-1" }, "geometry": { "type": "Point", "coordinates": [ 139.494, 35.6999 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "ìåè¨äwçZ", "A27_004": "è¨ã‡à‰ésìåí¨4-25-6" }, "geometry": { "type": "Point", "coordinates": [ 139.5269, 35.6986 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "ëOå¥è¨äwçZ", "A27_004": "è¨ã‡à‰ésëOå¥í¨3-4-22" }, "geometry": { "type": "Point", "coordinates": [ 139.5019, 35.6942 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "ñ{í¨è¨äwçZ", "A27_004": "è¨ã‡à‰ésñ{í¨5-29-21" }, "geometry": { "type": "Point", "coordinates": [ 139.501, 35.7044 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "óŒè¨äwçZ", "A27_004": "è¨ã‡à‰ésóŒí¨4-15-39" }, "geometry": { "type": "Point", "coordinates": [ 139.5163, 35.7091 ] } },
+{ "type": "Feature", "properties": { "A27_001": "13210", "A27_002": "è¨ã‡à‰ésóß", "A27_003": "ìÏè¨äwçZ", "A27_004": "è¨ã‡à‰ésëOå¥í¨2-2-1" }, "geometry": { "type": "Point", "coordinates": [ 139.5138, 35.6918 ] } },
+]
+}
