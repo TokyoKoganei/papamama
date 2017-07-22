@@ -1373,7 +1373,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.51552,35.69799 ]
+       "coordinates":  [ 139.52012,35.700732 ]
     },
     "properties": {
     "HID":"",
@@ -1400,8 +1400,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.69799,
-    "X":139.51552,
+    "Y":35.700732,
+    "X":139.52012,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
