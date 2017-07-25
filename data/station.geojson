@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.506650,35.701308 ]
+       "coordinates":  [ 139.50665,35.70130 ]
     },
     "properties": {
     "Id":"0",
@@ -16,14 +16,14 @@
     "station_name":"武蔵小金井",
     "shubetsu":"JR東日本",
     "lon":139.50665,
-    "lat":35.701308
+    "lat":35.7013
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.524572,35.701489 ]
+       "coordinates":  [ 139.52457,35.70148 ]
     },
     "properties": {
     "Id":"0",
@@ -33,15 +33,15 @@
     "company":"小金井市",
     "station_name":"東小金井",
     "shubetsu":"JR東日本",
-    "lon":139.524572,
-    "lat":35.701489
+    "lon":139.52457,
+    "lat":35.70148
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.526786,35.695926 ]
+       "coordinates":  [ 139.52678,35.69592 ]
     },
     "properties": {
     "Id":"0",
@@ -51,8 +51,44 @@
     "company":"小金井市",
     "station_name":"新小金井",
     "shubetsu":"西武鉄道",
-    "lon":139.526786,
-    "lat":35.695926
+    "lon":139.52678,
+    "lat":35.69592
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.47799,35.70035 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":11,
+    "N02_002":2,
+    "line":"中央本線",
+    "company":"小金井市",
+    "station_name":"国分寺",
+    "shubetsu":"JR東日本",
+    "lon":139.47799,
+    "lat":35.70035
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.54184,35.70192 ]
+    },
+    "properties": {
+    "Id":"0",
+    "N02_001":11,
+    "N02_002":2,
+    "line":"中央本線",
+    "company":"小金井市",
+    "station_name":"武蔵境",
+    "shubetsu":"JR東日本",
+    "lon":139.54184,
+    "lat":35.70192
     }
   }
 ]
