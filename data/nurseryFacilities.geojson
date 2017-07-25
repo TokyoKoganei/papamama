@@ -43,7 +43,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.49486,35.69020 ]
+       "coordinates":  [ 139.49503,35.69019 ]
     },
     "properties": {
     "HID":"",
@@ -70,8 +70,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.6902,
-    "X":139.49486,
+    "Y":35.69019,
+    "X":139.49503,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -81,7 +81,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52834,35.70609 ]
+       "coordinates":  [ 139.52815,35.70539 ]
     },
     "properties": {
     "HID":"",
@@ -108,8 +108,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70609,
-    "X":139.52834,
+    "Y":35.70539,
+    "X":139.52815,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -119,7 +119,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.48828,35.70157 ]
+       "coordinates":  [ 139.48824,35.70148 ]
     },
     "properties": {
     "HID":"",
@@ -146,8 +146,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70157,
-    "X":139.48828,
+    "Y":35.70148,
+    "X":139.48824,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -157,7 +157,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.50970,35.70644 ]
+       "coordinates":  [ 139.50971,35.70615 ]
     },
     "properties": {
     "HID":"",
@@ -184,8 +184,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70644,
-    "X":139.5097,
+    "Y":35.70615,
+    "X":139.50971,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -195,7 +195,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.49611,35.69790 ]
+       "coordinates":  [ 139.49442,35.69800 ]
     },
     "properties": {
     "HID":"",
@@ -233,7 +233,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52570,35.69572 ]
+       "coordinates":  [ 139.52550,35.69580 ]
     },
     "properties": {
     "HID":"",
@@ -260,8 +260,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.69572,
-    "X":139.5257,
+    "Y":35.6958,
+    "X":139.5255,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -271,7 +271,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.51361,35.69442 ]
+       "coordinates":  [ 139.51162,35.69471 ]
     },
     "properties": {
     "HID":"",
@@ -298,8 +298,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.69442,
-    "X":139.51361,
+    "Y":35.69471,
+    "X":139.51162,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -309,7 +309,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.50598,35.70407 ]
+       "coordinates":  [ 139.50569,35.70233 ]
     },
     "properties": {
     "HID":"",
@@ -336,8 +336,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70407,
-    "X":139.50598,
+    "Y":35.70233,
+    "X":139.50569,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -347,7 +347,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52437,35.70147 ]
+       "coordinates":  [ 139.52485,35.70088 ]
     },
     "properties": {
     "HID":"",
@@ -374,8 +374,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70147,
-    "X":139.52437,
+    "Y":35.70088,
+    "X":139.52485,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -385,7 +385,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.51382,35.70618 ]
+       "coordinates":  [ 139.51340,35.70567 ]
     },
     "properties": {
     "HID":"",
@@ -412,8 +412,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70618,
-    "X":139.51382,
+    "Y":35.70567,
+    "X":139.5134,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -423,7 +423,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.49803,35.70905 ]
+       "coordinates":  [ 139.49774,35.70892 ]
     },
     "properties": {
     "HID":"",
@@ -450,8 +450,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70905,
-    "X":139.49803,
+    "Y":35.70892,
+    "X":139.49774,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -461,7 +461,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52467,35.70433 ]
+       "coordinates":  [ 139.52512,35.70472 ]
     },
     "properties": {
     "HID":"",
@@ -488,8 +488,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70433,
-    "X":139.52467,
+    "Y":35.70472,
+    "X":139.52512,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -499,7 +499,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.50833,35.70094 ]
+       "coordinates":  [ 139.53531,35.70178 ]
     },
     "properties": {
     "HID":"",
@@ -613,7 +613,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52776,35.69736 ]
+       "coordinates":  [ 139.52730,35.69686 ]
     },
     "properties": {
     "HID":"",
@@ -640,8 +640,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.69736,
-    "X":139.52776,
+    "Y":35.69686,
+    "X":139.5273,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -651,7 +651,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.49979,35.69558 ]
+       "coordinates":  [ 139.49967,35.69586 ]
     },
     "properties": {
     "HID":"",
@@ -678,8 +678,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.69558,
-    "X":139.49979,
+    "Y":35.69586,
+    "X":139.49967,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -689,7 +689,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.50166,35.70235 ]
+       "coordinates":  [ 139.50196,35.70253 ]
     },
     "properties": {
     "HID":"",
@@ -716,8 +716,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70235,
-    "X":139.50166,
+    "Y":35.70253,
+    "X":139.50196,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -727,7 +727,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.49675,35.71148 ]
+       "coordinates":  [ 139.49752,35.71146 ]
     },
     "properties": {
     "HID":"",
@@ -754,8 +754,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.71148,
-    "X":139.49675,
+    "Y":35.71146,
+    "X":139.49752,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -765,7 +765,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52866,35.70204 ]
+       "coordinates":  [ 139.52890,35.70201 ]
     },
     "properties": {
     "HID":"",
@@ -792,8 +792,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70204,
-    "X":139.52866,
+    "Y":35.70201,
+    "X":139.5289,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -955,7 +955,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52464,35.69972 ]
+       "coordinates":  [ 139.52476,35.69973 ]
     },
     "properties": {
     "HID":"",
@@ -982,8 +982,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.69972,
-    "X":139.52464,
+    "Y":35.69973,
+    "X":139.52476,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -1297,7 +1297,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.50708,35.69922 ]
+       "coordinates":  [ 139.50749,35.69950 ]
     },
     "properties": {
     "HID":"",
@@ -1324,8 +1324,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.69922,
-    "X":139.50708,
+    "Y":35.6995,
+    "X":139.50749,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -1335,7 +1335,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.50569,35.70052 ]
+       "coordinates":  [ 139.50675,35.70016 ]
     },
     "properties": {
     "HID":"",
@@ -1362,8 +1362,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70052,
-    "X":139.50569,
+    "Y":35.70016,
+    "X":139.50675,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -1373,7 +1373,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.52012,35.700732 ]
+       "coordinates":  [ 139.52065,35.70127 ]
     },
     "properties": {
     "HID":"",
@@ -1400,8 +1400,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.700732,
-    "X":139.52012,
+    "Y":35.70127,
+    "X":139.52065,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -1449,7 +1449,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.51968,35.70212 ]
+       "coordinates":  [ 139.52050,35.70206 ]
     },
     "properties": {
     "HID":"",
@@ -1476,8 +1476,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.70212,
-    "X":139.51968,
+    "Y":35.70206,
+    "X":139.5205,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
@@ -1487,7 +1487,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.51411,35.71392 ]
+       "coordinates":  [ 139.51399,35.71374 ]
     },
     "properties": {
     "HID":"",
@@ -1514,8 +1514,8 @@
     "Ownership":"",
     "Proof":"",
     "Shanai":"",
-    "Y":35.71392,
-    "X":139.51411,
+    "Y":35.71374,
+    "X":139.51399,
     "url":"",
     "Vacancy":"",
     "VacancyDate":""
